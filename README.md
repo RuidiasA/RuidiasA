@@ -45,7 +45,7 @@ Sistema modular para gestión empresarial (Inventario, POS, Finanzas) con aislam
 
 <br/>
 
-### [SistemaCotizaciones 🡕](https://github.com/RuidiasA)
+### [SistemaCotizaciones 🡕](https://github.com/RuidiasA/sistema-cotizaciones-suite)
 Pipeline ETL automatizado para la consolidación, limpieza y procesamiento de más de 800 archivos Excel históricos (+15k registros), reduciendo el tiempo de cotización empresarial de 4 horas a pocos segundos.
 
 * **Puntos clave:** Procesamiento masivo de datos, exportación en formato corporativo, GUI funcional.
