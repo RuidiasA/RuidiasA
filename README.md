@@ -64,7 +64,7 @@ API RESTful orientada al dominio académico con implementación de reglas de neg
 ## GITHUB STATS
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RuidiasA&theme=blueberry&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&t=100" alt="GitHub Streak" style="width: 44%; height: auto;" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" style="width: 44%; height: auto;" />
   &ensp;
   <img src="https://github-readme-ruidiasa.vercel.app/api?username=RuidiasA&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true&hide_border=true&rank_icon=percentile&card_width=500&border_radius=10" alt="Estadísticas de GitHub" style="width: 44%; height: auto;" />
 </p>
