@@ -45,7 +45,7 @@ Pipeline ETL automatizado para la consolidación, limpieza y procesamiento de m�
 
 <br/>
 
-### [ERP SaaS Multi-Tenant 🡕](https://github.com/RuidiasA)
+### [ERP SaaS Multi-Tenant 🡕](https://github.com/RuidiasA/dynacsoft-inventory-saas)
 Sistema modular para gestión empresarial (Inventario, POS, Finanzas) con aislamiento de datos por tenant y autenticación robusta mediante Spring Security y JWT.
 
 * **Puntos clave:** Arquitectura multi-tenant, seguridad basada en roles, interfaz reactiva.
