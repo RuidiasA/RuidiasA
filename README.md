@@ -37,19 +37,19 @@ Estudiante de **Ingeniería de Software (9no ciclo)** enfocado en el desarrollo 
 
 ## PROYECTOS DESTACADOS
 
-### [ERP SaaS Multi-Tenant 🡕](https://github.com/RuidiasA)
-Sistema modular para gestión empresarial (Inventario, POS, Finanzas) con aislamiento de datos por tenant y autenticación robusta mediante Spring Security y JWT.
-
-* **Puntos clave:** Arquitectura multi-tenant, seguridad basada en roles, interfaz reactiva.
-* **Tech Stack:** `Java 21` • `Spring Boot` • `MySQL` • `React` • `Tailwind CSS`
-
-<br/>
-
 ### [SistemaCotizaciones 🡕](https://github.com/RuidiasA/sistema-cotizaciones-suite)
 Pipeline ETL automatizado para la consolidación, limpieza y procesamiento de más de 800 archivos Excel históricos (+15k registros), reduciendo el tiempo de cotización empresarial de 4 horas a pocos segundos.
 
 * **Puntos clave:** Procesamiento masivo de datos, exportación en formato corporativo, GUI funcional.
 * **Tech Stack:** `Python` • `Pandas` • `openpyxl` • `Tkinter`
+
+<br/>
+
+### [ERP SaaS Multi-Tenant 🡕](https://github.com/RuidiasA)
+Sistema modular para gestión empresarial (Inventario, POS, Finanzas) con aislamiento de datos por tenant y autenticación robusta mediante Spring Security y JWT.
+
+* **Puntos clave:** Arquitectura multi-tenant, seguridad basada en roles, interfaz reactiva.
+* **Tech Stack:** `Java 21` • `Spring Boot` • `MySQL` • `React` • `Tailwind CSS`
 
 <br/>
 
