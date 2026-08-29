@@ -53,7 +53,7 @@ Sistema modular para gestión empresarial (Inventario, POS, Finanzas) con aislam
 
 <br/>
 
-### [Gestor de Matrículas Universitarias 🡕](https://github.com/RuidiasA)
+### [Gestor de Matrículas Universitarias 🡕](https://github.com/RuidiasA/gestor_matriculas)
 API RESTful orientada al dominio académico con implementación de reglas de negocio complejas: validación de prerrequisitos, gestión de pagos y generación automática de horarios en PDF.
 
 * **Puntos clave:** Modelado JPA/Hibernate avanzado, generación de documentos dinámicos.
