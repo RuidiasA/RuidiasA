@@ -8,7 +8,7 @@ Estudiante de **Ingeniería de Software (9no ciclo)** enfocado en el desarrollo 
 
 - 💼 **Experiencia:** Automatización de pipelines ETL en Python y construcción de plataformas web independientes.
 - 🛠️ **Actualmente trabajando en:** Desarrollo de un sistema ERP/SaaS Multi-Tenant con Java 21, Spring Boot y React.
-- 🌐 **Portafolio Web:** [aruidias.vercel.app](https://aruidias.vercel.app/)
+- 🌐 **Portafolio Web:** [aruidias.dev](https://aruidias.dev/)
 - 🎓 **Certificaciones:** Cisco CCNA (Routing & Switching, Network Defense & Endpoint Security).
 - ✉️ **Contacto:** [alejandro.ruidias@hotmail.com](mailto:alejandro.ruidias@hotmail.com) | [LinkedIn](https://linkedin.com/in/a-ruidias)
 
