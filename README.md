@@ -1,6 +1,6 @@
 # ¡HOLA! SOY ALEJANDRO RUIDIAS 
 
-Estudiante de **Ingeniería de Software (9no ciclo)** enfocado en el desarrollo **Backend (Java / Spring Boot)**, arquitecturas **SaaS Multi-tenant** y automatización de datos con **Python**.
+Estudiante de **Ingeniería de Software** enfocado en el desarrollo **Backend (Java / Spring Boot)**, arquitecturas **SaaS Multi-tenant** y automatización de datos con **Python**.
 
 ---
 
